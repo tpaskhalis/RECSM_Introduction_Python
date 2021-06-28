@@ -11,14 +11,14 @@ Materials for 2-day RECSM workshop [Introduction to Python](https://eventum.upf.
 
 ## Schedule
 
-| Date    | Time (CET)  | Topic                                                                     |
-|---------|-------------|:--------------------------------------------------------------------------|
-| 28 June | 14:00-15:50 | Introduction to Python objects and data types                             |
-|         | 15:50-16:10 | Break                                                                     |
-|         | 16:10-18:00 | Pandas, data input/output                                                 |
-| 29 June | 14:00-15:50 | Exploratory data analysis, data visualization                             |
-|         | 15:50-16:10 | Break                                                                     |
-|         | 16:10-18:00 | Regression analysis, communicating results                                |
+| Date    | Time (CEST)   | Topic                                         |
+|:--------|:--------------|:----------------------------------------------|
+| 28 June | 16:00-17:50   | Introduction to Python objects and data types |
+|         | 17:50-18:10   | Break                                         |
+|         | 18:10-20:00   | Pandas, data input/output                     |
+| 29 June | 16:00-17:50   | Exploratory data analysis, data visualization |
+|         | 17:50-18:10   | Break                                         |
+|         | 18:10-20:00   | Regression analysis, communicating results    |
 
 ## Jupyter Notebook Installation
 
