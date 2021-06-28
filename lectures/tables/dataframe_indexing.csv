@@ -1,0 +1,10 @@
+Expression,Selection Operation
+`df[val]`,Column or sequence of columns +convenience (e.g. slice)
+`df.loc[lab_i]`,Row or subset of rows by label
+"`df.loc[:, lab_j]`",Column or subset of columns by label
+"`df.loc[lab_i, lab_j]`",Both rows and columns by label
+`df.iloc[i]`,Row or subset of rows by integer position
+"`df.iloc[:, j]`",Column or subset of columns by integer position
+"`df.iloc[i, j]`",Both rows and columns by integer position
+"`df.at[lab_i, lab_j]`",Single scalar value by row and column label
+"`df.iat[i, j]`",Single scalar value by row and column integer position
