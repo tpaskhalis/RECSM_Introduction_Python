@@ -1,6 +1,6 @@
 # RECSM Introduction to Python
 
-Materials for 2-day RECSM workshop [Introduction to Python](https://eventum.upf.edu/80340/section/36364/recsm-summer-methods-school-2022.html)
+Materials for 2-day RECSM workshop **Introduction to Python**.
 
 ## Structure
 
@@ -13,10 +13,10 @@ Materials for 2-day RECSM workshop [Introduction to Python](https://eventum.upf.
 
 | Date    | Time (CEST)   | Topic                                         |
 |:--------|:--------------|:----------------------------------------------|
-| 27 June | 09:00-10:45   | Introduction to Python objects and data types |
+| 26 June | 09:00-10:45   | Introduction to Python objects and data types |
 |         | 10:45-11:15   | Break                                         |
 |         | 11:15-13:00   | Pandas, data input/output                     |
-| 28 June | 09:00-10:45   | Exploratory data analysis, data visualization |
+| 27 June | 09:00-10:45   | Exploratory data analysis, data visualization |
 |         | 10:45-11:15   | Break                                         |
 |         | 11:15-13:00   | Regression analysis, communicating results    |
 
@@ -35,12 +35,14 @@ Books:
 
 - Guttag, John. 2021 *Introduction to Computation and Programming Using Python: With Application to Computational Modeling and Understanding Data*. 3rd ed. Cambridge, MA: The MIT Press
 
-- McKinney, Wes. 2017. *Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython*. 2nd ed. Sebastopol, CA: O'Reilly Media
+- McKinney, Wes. 2022. *Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter*. 3rd ed. Sebastopol, CA: O'Reilly Media
   
 - Sweigart, Al. 2019. *Automate the Boring Stuff with Python*. 2nd ed. San Francisco, CA: No
 Starch Press
 
 Online:
+
+- [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
 
 - [Python For You and Me](https://pymbook.readthedocs.io/en/latest/)
 
